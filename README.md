@@ -1,3 +1,6 @@
+JUST A WIRE FRAME FOR DEMO PURPOSES
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
